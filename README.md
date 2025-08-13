@@ -1,5 +1,13 @@
-## Hello!
-I'm a computer science student who enjoys building things, from games to personal tools.
+### Hi, I'm Ryan 👋
 
-🔭 Working on replacing a bunch of spreadsheets I use with a Ruby on Rails app.  
-🌱 Learning C out of curiosity.
+I'm a Computer Science student from the UK with experience creating web applications, games, and developer tools. I enjoy learning new technologies and building side projects that satisfy my curiosity.
+
+### Things I'm working on
+
+[Module Mate](github.com/Turnlings/grade-tracker)
+
+A Ruby on Rails web app that helps students track study time, manage upcoming exams, record scores, and calculate final grades.
+
+[Quokka Interpreter](github.com/Turnlings/quokka-interpreter)
+
+Learning C by building a completely different language. It makes sense in my head...
