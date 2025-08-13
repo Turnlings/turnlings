@@ -10,4 +10,4 @@ A Ruby on Rails web app that helps students track study time, manage upcoming ex
 
 [Quokka Interpreter](github.com/Turnlings/quokka-interpreter)
 
-Learning C by building a completely different language. It makes sense in my head...
+An interpreter for a toy programming language, built in C as a learning project.
