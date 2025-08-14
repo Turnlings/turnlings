@@ -2,6 +2,8 @@
 
 I'm a Computer Science student from the UK with experience creating web applications, games, and developer tools. I enjoy learning new technologies and building side projects that satisfy my curiosity.
 
+For more details check out my [Portfolio Site](https://turnlings.github.io/).
+
 ### Things I'm working on
 
 [Module Mate](github.com/Turnlings/grade-tracker)
