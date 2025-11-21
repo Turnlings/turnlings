@@ -7,4 +7,5 @@ For more details check out my [Portfolio Site](https://turnlings.github.io/).
 ### Things I'm working on
 
 [ModuleMate](https://github.com/Turnlings/grade-tracker) - A Ruby on Rails web app that helps students track study time, manage upcoming exams, and calculate final grades.  
-[Quokka Interpreter](https://github.com/Turnlings/quokka-interpreter) - An interpreter for a toy programming language, built in C as a learning project.
+[Quokka Interpreter](https://github.com/Turnlings/quokka-interpreter) - An interpreter for a toy programming language, built in C as a learning project.  
+[FGCS](https://github.com/Avis-Drone-Labs/FGCS) - A ground control system developed by Avis Drone Labs.
